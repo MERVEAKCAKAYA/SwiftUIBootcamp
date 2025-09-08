@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DD11ECC52E5B9F21009FEBEE /* Odev3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Odev3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD11ED112E6F1FA5009FEBEE /* Odev_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Odev_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DD11ECC72E5B9F21009FEBEE /* Odev3 */ = {
+		DD11ED132E6F1FA5009FEBEE /* Odev_2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Odev3;
+			path = Odev_2;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DD11ECC22E5B9F21009FEBEE /* Frameworks */ = {
+		DD11ED0E2E6F1FA5009FEBEE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DD11ECBC2E5B9F21009FEBEE = {
+		DD11ED082E6F1FA5009FEBEE = {
 			isa = PBXGroup;
 			children = (
-				DD11ECC72E5B9F21009FEBEE /* Odev3 */,
-				DD11ECC62E5B9F21009FEBEE /* Products */,
+				DD11ED132E6F1FA5009FEBEE /* Odev_2 */,
+				DD11ED122E6F1FA5009FEBEE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DD11ECC62E5B9F21009FEBEE /* Products */ = {
+		DD11ED122E6F1FA5009FEBEE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD11ECC52E5B9F21009FEBEE /* Odev3.app */,
+				DD11ED112E6F1FA5009FEBEE /* Odev_2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DD11ECC42E5B9F21009FEBEE /* Odev3 */ = {
+		DD11ED102E6F1FA5009FEBEE /* Odev_2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD11ECD02E5B9F22009FEBEE /* Build configuration list for PBXNativeTarget "Odev3" */;
+			buildConfigurationList = DD11ED1C2E6F1FA6009FEBEE /* Build configuration list for PBXNativeTarget "Odev_2" */;
 			buildPhases = (
-				DD11ECC12E5B9F21009FEBEE /* Sources */,
-				DD11ECC22E5B9F21009FEBEE /* Frameworks */,
-				DD11ECC32E5B9F21009FEBEE /* Resources */,
+				DD11ED0D2E6F1FA5009FEBEE /* Sources */,
+				DD11ED0E2E6F1FA5009FEBEE /* Frameworks */,
+				DD11ED0F2E6F1FA5009FEBEE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DD11ECC72E5B9F21009FEBEE /* Odev3 */,
+				DD11ED132E6F1FA5009FEBEE /* Odev_2 */,
 			);
-			name = Odev3;
+			name = Odev_2;
 			packageProductDependencies = (
 			);
-			productName = Odev3;
-			productReference = DD11ECC52E5B9F21009FEBEE /* Odev3.app */;
+			productName = Odev_2;
+			productReference = DD11ED112E6F1FA5009FEBEE /* Odev_2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DD11ECBD2E5B9F21009FEBEE /* Project object */ = {
+		DD11ED092E6F1FA5009FEBEE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					DD11ECC42E5B9F21009FEBEE = {
+					DD11ED102E6F1FA5009FEBEE = {
 						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = DD11ECC02E5B9F21009FEBEE /* Build configuration list for PBXProject "Odev3" */;
+			buildConfigurationList = DD11ED0C2E6F1FA5009FEBEE /* Build configuration list for PBXProject "Odev_2" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DD11ECBC2E5B9F21009FEBEE;
+			mainGroup = DD11ED082E6F1FA5009FEBEE;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = DD11ECC62E5B9F21009FEBEE /* Products */;
+			productRefGroup = DD11ED122E6F1FA5009FEBEE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD11ECC42E5B9F21009FEBEE /* Odev3 */,
+				DD11ED102E6F1FA5009FEBEE /* Odev_2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DD11ECC32E5B9F21009FEBEE /* Resources */ = {
+		DD11ED0F2E6F1FA5009FEBEE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DD11ECC12E5B9F21009FEBEE /* Sources */ = {
+		DD11ED0D2E6F1FA5009FEBEE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DD11ECCE2E5B9F22009FEBEE /* Debug */ = {
+		DD11ED1A2E6F1FA6009FEBEE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		DD11ECCF2E5B9F22009FEBEE /* Release */ = {
+		DD11ED1B2E6F1FA6009FEBEE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		DD11ECD12E5B9F22009FEBEE /* Debug */ = {
+		DD11ED1D2E6F1FA6009FEBEE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Makcakaya.Odev3;
+				PRODUCT_BUNDLE_IDENTIFIER = "Makcakaya.Odev-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -271,7 +271,7 @@
 			};
 			name = Debug;
 		};
-		DD11ECD22E5B9F22009FEBEE /* Release */ = {
+		DD11ED1E2E6F1FA6009FEBEE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,7 +290,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Makcakaya.Odev3;
+				PRODUCT_BUNDLE_IDENTIFIER = "Makcakaya.Odev-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -301,25 +301,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD11ECC02E5B9F21009FEBEE /* Build configuration list for PBXProject "Odev3" */ = {
+		DD11ED0C2E6F1FA5009FEBEE /* Build configuration list for PBXProject "Odev_2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD11ECCE2E5B9F22009FEBEE /* Debug */,
-				DD11ECCF2E5B9F22009FEBEE /* Release */,
+				DD11ED1A2E6F1FA6009FEBEE /* Debug */,
+				DD11ED1B2E6F1FA6009FEBEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD11ECD02E5B9F22009FEBEE /* Build configuration list for PBXNativeTarget "Odev3" */ = {
+		DD11ED1C2E6F1FA6009FEBEE /* Build configuration list for PBXNativeTarget "Odev_2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD11ECD12E5B9F22009FEBEE /* Debug */,
-				DD11ECD22E5B9F22009FEBEE /* Release */,
+				DD11ED1D2E6F1FA6009FEBEE /* Debug */,
+				DD11ED1E2E6F1FA6009FEBEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DD11ECBD2E5B9F21009FEBEE /* Project object */;
+	rootObject = DD11ED092E6F1FA5009FEBEE /* Project object */;
 }

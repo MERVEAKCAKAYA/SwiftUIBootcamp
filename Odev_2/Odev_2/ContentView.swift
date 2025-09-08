@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Odev3
+//  Odev_2
 //
-//  Created by Merve Akçakaya on 24.08.2025.
+//  Created by Merve Akçakaya on 8.09.2025.
 //
 
 import SwiftUI
@@ -113,3 +113,4 @@ struct ProfileView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
