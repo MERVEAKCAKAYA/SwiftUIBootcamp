@@ -9,11 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var viewModel = ContentViewModel()
+    @StateObject var viewModel = ContentViewModel()
     var body: some View {
         NavigationStack{
-            
-        
             List(viewModel.gorevler){ gorev in
                 Tasarim(title: gorev.title)
                 //listede sola kaydirinca ogeyi silme islemi
